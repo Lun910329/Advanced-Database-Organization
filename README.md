@@ -1,7 +1,4 @@
-# iit_cs525_spring_2015
-WARNING: You can view this code as reference, but DO NOT plagiarize by copying any code from this repository. You will get caught. And I really don't think you can understand my code easily.
 
-This is the repository of IIT CS 525 Advanced Database Organization in Spring 2015. This project is to accomplish assignments of this course. All rights reserved.
 
 Assignment 1 Schedule:
 	02/10/2016 - DEV Phase complete: Code and Unit Test
